@@ -2,3 +2,4 @@
 newbie
 commit
 branch
+push and pull
